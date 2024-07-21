@@ -1,6 +1,8 @@
 # aes256-encrypt
 A unix or linux encryption script for using the AES256-CBC cipher using openssl securely and conveniently
 
+Great for encrypting backup codes and secret keys
+
 CHANGE PERMISSION TO EXECUTABLE
 chmod +x encrypt
 
